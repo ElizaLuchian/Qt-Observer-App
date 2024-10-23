@@ -1,0 +1,27 @@
+# ninja log v5
+189	3090	7412763514049241	CMakeFiles/untitled7.dir/GUI/CourierGUI.cpp.obj	e0682e20ae2c743
+20	173	7412763484865343	untitled7_autogen/timestamp	a44a6524b4e7135b
+20	173	7412763484865343	untitled7_autogen/mocs_compilation.cpp	a44a6524b4e7135b
+3313	5187	7412755265028023	CMakeFiles/untitled7.dir/Service/Observer.cpp.obj	54abf6e226738dcb
+1904	2925	7412470354052563	CMakeFiles/untitled7.dir/Domain/Courier.cpp.obj	135b9eb23c791ae
+3196	5882	7412755272284789	CMakeFiles/untitled7.dir/Domain/Package.cpp.obj	54068bb003aa8cd1
+3291	6032	7412755273696752	CMakeFiles/untitled7.dir/Service/Service.cpp.obj	b541ae41b876dcfb
+185	1180	7412763494937585	CMakeFiles/untitled7.dir/Repository/Repository.cpp.obj	cf83254a7e6cf70e
+644	8009	7412756901120356	CMakeFiles/untitled7.dir/untitled7_autogen/mocs_compilation.cpp.obj	7def546536d804c1
+648	8526	7412756906304511	CMakeFiles/untitled7.dir/main.cpp.obj	90f2416fd9df6f8f
+3338	18003	7412755393576034	CMakeFiles/untitled7.dir/GUI/CompanyGUI.cpp.obj	212e5d98062509f7
+3090	3326	7412763516359131	untitled7.exe	1ddaaf6ad37a497f
+52	1619	7513143368530012	untitled7_autogen/timestamp	a56541bfa129017c
+52	1619	7513143368530012	untitled7_autogen/mocs_compilation.cpp	a56541bfa129017c
+52	1619	7513143368530012	C:/Facultate anul 2/oop examen/DeliverNowExam/cmake-build-debug/untitled7_autogen/timestamp	a56541bfa129017c
+52	1619	7513143368530012	C:/Facultate anul 2/oop examen/DeliverNowExam/cmake-build-debug/untitled7_autogen/mocs_compilation.cpp	a56541bfa129017c
+1711	2211	7513143376022083	CMakeFiles/untitled7.dir/Service/Observer.cpp.obj	815686ebd127c48a
+1621	2475	7513143378574265	CMakeFiles/untitled7.dir/Domain/Package.cpp.obj	4a92be00b765348
+1661	2485	7513143378608476	CMakeFiles/untitled7.dir/Service/Service.cpp.obj	e5fa5b4249a4b2d5
+1645	2522	7513143379069253	CMakeFiles/untitled7.dir/Domain/Courier.cpp.obj	91a91e6f72b8ed2a
+1679	3562	7513143389454971	CMakeFiles/untitled7.dir/Repository/Repository.cpp.obj	7f71dc79893eb621
+1734	5648	7513143410377377	CMakeFiles/untitled7.dir/untitled7_autogen/mocs_compilation.cpp.obj	7228f2f368867f77
+1632	5769	7513143411575480	CMakeFiles/untitled7.dir/main.cpp.obj	f8298300ba2290ae
+1723	6358	7513143417457247	CMakeFiles/untitled7.dir/GUI/CompanyGUI.cpp.obj	f5107e94692a17b9
+1694	6516	7513143419038916	CMakeFiles/untitled7.dir/GUI/CourierGUI.cpp.obj	2362671567799686
+6517	7269	7513143426438471	untitled7.exe	1ddaaf6ad37a497f
